@@ -1,0 +1,3 @@
+bottle==0.12.18
+sentry-sdk==0.16.0
+sentry-sdk[bottle]==0.16.0
